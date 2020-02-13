@@ -1,6 +1,8 @@
 # playglot-web-app
 This is a Web-App, which i developed in a project work. It is divided into two parts. The frontend and the backend.
 
+The Web App is available under https://playglot.web.app/.
+
 ## Backend - Firebase, Node.js
 The endpoints and firebase cloud functions can be found in the index.js.
 

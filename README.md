@@ -1,12 +1,14 @@
 # playglot-web-app
-This is a Web-App, which i developed in a project work. It is divided into two parts. The frontend and the backend.
+This is a Web-App, which i developed in a project work. The purpose was building a social media app, which connects people with the same game and language interests, in a kind of tandem method approach.
+
+The code is divided into two parts. The frontend and the backend.
 
 The Web App is available under https://playglot.web.app/.
 
 ## Backend - Firebase, Node.js
 The endpoints and firebase cloud functions can be found in the index.js.
 
-The methods for the different endpoints can be found in the methods folder. They are seperated by users, quests, and messenger. Each contains the logica for their area.
+The methods for the different endpoints can be found in the methods folder. They are seperated by users, quests (the post of the web app), and messenger. Each contains the logic for their area.
 
 The utilities folder contains every kind of helper methods or imports which are used widely in the project. It also contains the validators which help with validating the send data.
 
